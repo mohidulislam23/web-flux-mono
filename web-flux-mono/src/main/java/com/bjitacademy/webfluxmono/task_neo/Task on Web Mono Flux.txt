@@ -1,0 +1,5 @@
+1. print duplicate elements from an array -> DuplicateElements
+2. rotate the elements in the array -> ArrayRotaion
+3. palindrome -> PalindromCheck
+4. frequency of each character of stream of strings -> CharacterFrequency
+5. each string of array in uppercase and reverse order -> StringTransform
